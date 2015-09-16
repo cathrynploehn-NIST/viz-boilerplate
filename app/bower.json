@@ -1,0 +1,25 @@
+{
+  "name": "app",
+  "version": "0.0.0",
+  "homepage": "https://github.com/christianalfoni/flux-react-boilerplate",
+  "authors": [
+    "Cathryn Ploehn <cathryn.ploehn@nist.gov>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "visualization"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}

@@ -1,0 +1,26 @@
+﻿edits
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is ahead of 'origin/master' by 2 commits.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	deleted:    app/App.js
+#	deleted:    app/Store.js
+#	deleted:    app/actions.js
+#	deleted:    app/main.js
+#	modified:   build/main.css
+#	modified:   build/main.js
+#	modified:   build/specs.js
+#	modified:   gulpfile.js
+#	modified:   package.json
+#	modified:   specs/App-spec.js
+#	deleted:    styles/main.css
+#	deleted:    u5rbwyql.2jr.txt
+#
+# Untracked files:
+#	app/
+#
+
